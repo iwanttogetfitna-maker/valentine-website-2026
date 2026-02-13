@@ -8,14 +8,14 @@ const CONFIG = {
     valentineName: "Pauline C Tan",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // You can use emojis! 💝 💖 🩺 💗 💓 👩🏻‍⚕️ 💞 💕
     pageTitle: "Will You Be My Valentine Forever? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['👩🏻‍⚕️', '🩺']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "I really love you more than you can imagine pau, I am happy to have you 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗👩🏻‍⚕️💝💋❤️🩺💕"  // These will bounce around
     },
 
     // Color scheme for the website
